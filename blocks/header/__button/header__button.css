@@ -1,0 +1,10 @@
+.header__button {
+    background-color: rgba(239, 187, 96, 1);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 17px 43px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}

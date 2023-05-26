@@ -1,0 +1,14 @@
+.about__illustration {
+    background-image: url(../../../images/Tiger_2048x1152\ 1.png);
+    background-repeat: no-repeat;
+    aspect-ratio: 8 / 3.74;
+    text-align: center;
+    background-position: 50% 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 1301px;
+    background-size: 1143px;
+    padding-top: 25px;
+}
