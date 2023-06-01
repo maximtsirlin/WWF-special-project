@@ -1,0 +1,4 @@
+.animal {
+    grid-template-columns: 440fr 456fr;
+    gap: 48px 32px;
+}

@@ -15,3 +15,11 @@
 @import url(../blocks/about/__illustration/about__illustration.css);
 
 
+@import url(../blocks/description/__paragraph/description__paragraph.css);
+@import url(../blocks/description/__title/description__title.css);
+
+@import url(../blocks/animal/__button/animal__button.css);
+@import url(../blocks/animal/__illustration/animal__illustration.css);
+@import url(../blocks/animal/__text/animal__text.css);
+@import url(../blocks/animal/__title/animal__title.css);
+

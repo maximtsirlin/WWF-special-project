@@ -1,0 +1,14 @@
+.description__title {
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 64px;
+    /* text-align: center; */
+    max-width: 740px;
+    padding-top: 51px;
+    display: flex;
+    margin-left: 142px;
+    margin-right: auto;
+    justify-content: space-around;
+    margin-top: 0;
+    margin-bottom: 0;
+}
