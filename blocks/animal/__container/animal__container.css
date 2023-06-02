@@ -1,0 +1,7 @@
+.animal__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: center;
+    margin-top: 95px;
+}

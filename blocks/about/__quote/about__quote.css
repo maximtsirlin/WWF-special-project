@@ -1,0 +1,15 @@
+.about__quote {
+    font-size: 10px;
+    line-height: 14px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    padding-top: 8px;
+    max-width: 984px;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 80px;
+    margin-right: auto;
+    text-transform: uppercase;
+}

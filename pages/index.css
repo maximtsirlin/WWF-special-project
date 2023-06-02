@@ -13,13 +13,21 @@
 @import url(../blocks/about/__title/about__title.css);
 @import url(../blocks/about/__text/about__text.css);
 @import url(../blocks/about/__illustration/about__illustration.css);
+@import url(../blocks/about/__quote/about__quote.css);
+
 
 
 @import url(../blocks/description/__paragraph/description__paragraph.css);
 @import url(../blocks/description/__title/description__title.css);
 
-@import url(../blocks/animal/__button/animal__button.css);
+
 @import url(../blocks/animal/__illustration/animal__illustration.css);
+@import url(../blocks/animal/__button/_button-left/animal_button-left.css);
+@import url(../blocks/animal/__button/animal__button.css);
+
 @import url(../blocks/animal/__text/animal__text.css);
 @import url(../blocks/animal/__title/animal__title.css);
+@import url(../blocks/animal/animal.css);
+@import url(../blocks/animal/__content/animal__content.css);
+@import url(../blocks/animal/__container/animal__container.css);
 
