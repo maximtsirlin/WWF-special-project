@@ -1,0 +1,8 @@
+.photos__gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Две колонки */
+    gap: 10px; /* Промежуток между ячейками */
+    max-width: 600px;
+}
+
+

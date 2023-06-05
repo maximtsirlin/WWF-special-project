@@ -6,5 +6,9 @@
     padding: 15px 34px;
     font-size: 16px;
     cursor: pointer;
-    
+    transition: 1s linear;
+}
+
+.header__button:hover {
+    background-color: rgb(18, 12, 0);
 }
