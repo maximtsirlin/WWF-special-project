@@ -46,6 +46,12 @@
 
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column-link/footer__colimn-link.css);
+
+@import url(../blocks/footer/__column-links/footer__column-links.css);
+
+
 @import url(../blocks/footer/__disclamer/footer__disclamer.css);
 @import url(../blocks/footer/__quote/footer__quote.css);
 @import url(../blocks/footer/__type/footer__type.css);

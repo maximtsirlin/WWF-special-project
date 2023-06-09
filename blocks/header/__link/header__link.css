@@ -5,4 +5,12 @@
     line-height: 18px;
     text-decoration: none;
     padding-right: 42px;
+    transition: 1s linear;
+    cursor: pointer;
+}
+
+
+
+.header__link:hover {
+    color: rgba(239, 187, 96, 1);
 }
