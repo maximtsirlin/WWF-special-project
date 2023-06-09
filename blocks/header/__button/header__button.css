@@ -1,4 +1,25 @@
 .header__button {
+    border-radius: 65px;
+    padding: 14px 43px;
+    font-size: 24px;
+    cursor: pointer;
+    max-width: 489px;
+    transition: 1s linear;
+    border: 3px solid rgba(239, 187, 96, 1);
+    background-color: white;
+    color: rgba(239, 187, 96, 1);
+}
+
+
+.header__button:hover {
+    border: 3px solid  rgb(18, 12, 0);
+    color: rgb(18, 12, 0);
+}
+
+
+
+/* 
+.header__button {
     background-color: rgba(239, 187, 96, 1);
     color: white;
     border: none;
@@ -11,4 +32,4 @@
 
 .header__button:hover {
     background-color: rgb(18, 12, 0);
-}
+} */

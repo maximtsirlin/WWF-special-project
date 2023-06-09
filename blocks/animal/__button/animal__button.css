@@ -1,16 +1,42 @@
 .animal__button {
-    background-color: rgba(30, 36, 38, 1);
-    color: white;
-    border: none;
-    border-radius: 5px;
+    border-radius: 65px;
     padding: 17px 43px;
-    font-size: 16px;
+    font-size: 25px;
     cursor: pointer;
-    max-width: 130px;
+    max-width: 486px;
     margin-top: 100px;
     transition: 1s linear;
+    border: 3px solid #213c55;
+    background-color: white;
 }
 
 .animal__button:hover {
-    background-color: rgba(239, 187, 96, 1);
+    border: 3px solid  rgba(239, 187, 96, 1);
+    color: rgba(239, 187, 96, 1);
 }
+
+
+
+
+
+
+/* 
+    .animal__button {
+        background-color: rgba(30, 36, 38, 1);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        padding: 17px 43px;
+        font-size: 16px;
+        cursor: pointer;
+        max-width: 130px;
+        margin-top: 100px;
+        transition: 1s linear;
+    }
+     */
+
+/* 
+     .animal__button:hover {
+        background-color: rgba(239, 187, 96, 1);
+    }
+     */
